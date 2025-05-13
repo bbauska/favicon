@@ -7,10 +7,12 @@ Favicons are small 16x16 icon files that are displayed next to the URL of your s
   <li><a href="https://www.favicon-generator.org/image-editor/" target="_blank" rel="noopener noreferrer">Favicon Generator</a>.</li>
   <li><a href="https://www.hexcolortool.com/" target="_blank" rel="noopener noreferrer">HTML Color Codes</a>.</li>
   <li><a href="https://www.cssfontstack.com/" target="_blank" rel="noopener noreferrer">CSS Fonts</a></li>
+  <li><a href="https://www.cleancss.com/email-validator/" target="_blank" rel="noopener noreferrer">Email Validator</a></li>
 </ul>
 
 <a href="https://www.cleancss.com/user-manuals/" target="_blank" rel="noopener noreferrer">User Manuals and Installation Instructions</a>.
 
+https://www.cleancss.com/email-validator/
 
     <a target="_blank" rel="noopener noreferrer" 
     
