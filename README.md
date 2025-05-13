@@ -5,3 +5,4 @@ Favicons are small 16x16 icon files that are displayed next to the URL of your s
 
 
 <a href="https://www.favicon-generator.org/image-editor/">Favicon Generator</a>.
+<a href="https://www.hexcolortool.com/">HTML Color Codes</a>.
