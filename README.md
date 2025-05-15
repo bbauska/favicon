@@ -10,6 +10,8 @@ open tabs and bookmark listings making it easier for the user to quickly identif
   <li><a href="https://www.favicon-generator.org/image-editor/" target="_blank" rel="noopener noreferrer">Favicon Generator</a>.</li>
   <li><a href="https://www.hexcolortool.com/" target="_blank" rel="noopener noreferrer">HTML Color Codes</a>.</li>
   <li><a href="https://www.cssfontstack.com/" target="_blank" rel="noopener noreferrer">CSS Fonts</a></li>
+  <li><a href="https://www.cssfontstack.com/Web-Fonts" target="_blank" rel="noopener noreferrer">Web Fonts</a></li>
+  <li><a href="https://www.htaccessredirect.net/"target="_blank" rel="noopener noreferrer">.htaccess Generator</a></li>
   <li><a href="https://www.cleancss.com/email-validator/" target="_blank" rel="noopener noreferrer">Email Validator</a></li>
 </ul>
 
@@ -18,4 +20,10 @@ User Manuals and Installation Instructions</a>.
 
 <pre><code>&lt;a target="_blank" rel="noopener noreferrer"&gt;</code></pre>
     
-<a href="https://www.geeksforgeeks.org/how-to-open-a-hyperlink-in-another-window-or-tab-in-html/">Let's Start Learning</a>.
+<a href="https://www.geeksforgeeks.org/how-to-open-a-hyperlink-in-another-window-or-tab-in-html/" 
+  target="_blank" rel="noopener noreferrer">Let's Start Learning</a>.
+
+<p><a href="https://bootsnipp.com/" target="_blank" rel="noopener noreferrer">Web Dev</a></p>
+
+#155e08
+
