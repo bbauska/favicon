@@ -16,8 +16,6 @@ open tabs and bookmark listings making it easier for the user to quickly identif
 <a href="https://www.cleancss.com/user-manuals/" target="_blank" rel="noopener noreferrer">
 User Manuals and Installation Instructions</a>.
 
-https://www.cleancss.com/email-validator/
-
 <pre><code>&lt;a target="_blank" rel="noopener noreferrer"&gt;</code></pre>
     
 <a href="https://www.geeksforgeeks.org/how-to-open-a-hyperlink-in-another-window-or-tab-in-html/">Let's Start Learning</a>.
