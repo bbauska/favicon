@@ -18,6 +18,6 @@ User Manuals and Installation Instructions</a>.
 
 https://www.cleancss.com/email-validator/
 
-<pre><code><a target="_blank" rel="noopener noreferrer"</code></pre>
+<pre><code>&lt;a target="_blank" rel="noopener noreferrer"&gt;</code></pre>
     
 <a href="https://www.geeksforgeeks.org/how-to-open-a-hyperlink-in-another-window-or-tab-in-html/">Let's Start Learning</a>.
